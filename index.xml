@@ -20,7 +20,7 @@
       <author>rakyll@rakyll.org (Jaana Burcu Dogan)</author>
       <guid>https://rakyll.org/latency-profiling/</guid>
       <description>Note: This article contains non-finalized ideas; we may end up not implementing any of this but ideally we should do work towards the direction explained here.
-Go is the language to write servers, Go is the language to write microservices. Yet, we haven&amp;rsquo;t done much in the past for the latency analysis, and observability/diagnostics of request/RPC performance.
+Go is the language to write servers, Go is the language to write microservices. Yet, we haven&amp;rsquo;t done much in the past for latency analysis and observability/diagnostics of request/RPC performance.
 GopherCon 2017 was an opportunity for me to discuss our roadmap for latency analysis.</description>
     </item>
     
